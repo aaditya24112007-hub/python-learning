@@ -1,29 +1,49 @@
-# Python Learning Journey
+# Python Learning Journey 🐍
 
-Welcome to my Python learning repository.
+This repository documents my journey learning Python from the fundamentals, including exercises, experiments, and beginner projects.
 
-I am a first-year B.Tech student in Electronics & Telecommunication Engineering, currently building my programming fundamentals with Python.
+I'm a first-year B.Tech student in Electronics & Telecommunication Engineering, currently building my programming and problem-solving fundamentals.
 
-## What I'm Learning
+## 📚 What I'm Currently Learning
 
-- Python fundamentals
-- Variables and data types
-- Conditional statements
-- Loops
-- Lists, tuples, dictionaries and sets
-- Functions
-- Problem solving
-- File handling
-- Object-oriented programming
+* Variables and data types
+* Lists and `append()`
+* Tuples
+* Dictionaries
+* Sets
+* `while` loops
+* Basic problem solving
 
-## Projects
+## 📂 Repository Structure
 
-Beginner projects will be added as I progress through my learning journey.
+```text
+basics/
+└── Python fundamentals and practice exercises
+```
 
-## Goal
+## 🚀 Projects
 
-Build a strong foundation in programming and gradually apply Python to electronics, data analysis, quantitative finance, and engineering projects.
+Beginner projects will be added as I build my understanding of Python and learn to apply programming concepts to practical problems.
+
+## 🎯 Goal
+
+Build a strong foundation in Python and gradually progress toward:
+
+* Problem solving
+* Data structures and algorithms
+* Engineering projects
+* Automation
+* Data analysis
+* Quantitative finance
+
+## 📈 Learning Approach
+
+I follow a simple approach:
+
+**Learn → Practice → Build → Review → Improve**
+
+This repository will evolve as my Python skills develop.
 
 ---
 
-**Learning by building.**
+*Learning by building.*
